@@ -1,0 +1,52 @@
+{
+    "hotels":[
+       {  "id":0,
+           "name":"Arij Resort",
+          "location":"Laikipia",
+          "photo":"My Tour Project/my-tour-project/src/assets/Images/Arij Resort.jpg",
+          "starrating": 4
+      },
+      {  "id":1,
+      "name":"Fairmount Hotel",
+     "location":"Nanyuki",
+     "photo":"M/src/assets/Fairmount H.jpg",
+     "starrating": 5
+    },
+    {  "id":2,
+    "name":"Mombasa Hotel",
+   "location":"Mombasa",
+   "photo":"M/src/assets/Mombasa Hotel.jpg",
+   "starrating": 5
+},
+{  "id":3,
+"name":"Watamu H",
+"location":"Watamu",
+"photo":"M/src/assets/Watamu H.jpg",
+"starrating": 5
+},
+    
+        {  "id":4,
+        "name":"Coastal",
+       "location":"Msa",
+       "photo":"M/src/assets/Images/Coastal.jpg"
+   },
+   
+    {  "id":5,
+    "name":"Fort Jesus",
+   "location":"Msa",
+   "photo":"M/src/assets/Images/Fort Jesus.jpg"
+},
+
+    {  "id":6,
+    "name":"Lake Nakuru National Park",
+   "location":"Nakuru",
+   "photo":"M/src/assets/Images/Lake Nakuru Flamingoes.jpg"
+},
+
+    {  "id":7,
+"name":"Mt Kenya",
+"location":"Nanyuki",
+"photo":"M/src/assets/Images/MtKenya1.jpg"
+}
+    ]
+}

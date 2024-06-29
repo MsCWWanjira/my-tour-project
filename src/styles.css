@@ -1,1 +1,22 @@
-/* You can add global styles to this file, and also import other style files */
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: 'Be Vietnam Pro', sans-serif;
+  }
+  :root {
+    --primary-color: #615dc888;
+    --secondary-color: #8b89e6b0;
+    --accent-color: #e8e7fa86;
+    --shadow-color: #e8e8e888;
+  }
+  
+  button.primary {
+    padding: 10px;
+    border: solid 1px var(--primary-color);
+    background: var(--primary-color);
+    color: rgba(255, 255, 255, 0.253);
+    border-radius: 10px;
+  }
